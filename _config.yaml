@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: YunlongLiuLab
+title: Yunlong Liu Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Welcome to Dr. Yunlong Liu’s laboratory in the Center for Computational Biology and Bioinformatics at Indiana University School of Medicine.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@YunlongLiuLab.com
+  email: yunliu@iu.edu
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: YunlongLiuLab
-  twitter: YunlongLiuLab
-  youtube: YunlongLiuLab
+  google-scholar: YfbvsMgAAAAJ
+  github: yunlongliulab
+  twitter: cihaterdogan
+  youtube: '@iusm-ccbb1934'
 
 ### jekyll settings
 
