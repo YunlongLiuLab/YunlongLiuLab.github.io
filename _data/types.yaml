@@ -18,6 +18,10 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+phdstu:
+  icon: fa-solid fa-user-graduate
+  description: Ph.D. Student
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer
