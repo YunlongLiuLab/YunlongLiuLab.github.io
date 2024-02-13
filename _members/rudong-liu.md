@@ -1,6 +1,6 @@
 ---
 name: Rudong Li
-image: images/members/photo.jpg
+image: images/members/member_he.jpg
 role: postdoc
 aliases:
   - R. Li
