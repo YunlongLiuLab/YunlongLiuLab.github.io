@@ -1,6 +1,6 @@
 ---
 name: Yunlong Liu
-image: images/members/yliu.png
+image: images/members/yliu2.png
 role: pi
 group: alum
 ---

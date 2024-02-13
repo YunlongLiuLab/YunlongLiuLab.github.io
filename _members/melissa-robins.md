@@ -1,6 +1,6 @@
 ---
 name: Melissa Robins
-image: images/members/mrobins.jpg
+image: images/members/mrobins2.png
 role: phdstu
 aliases:
   - M. Robins
