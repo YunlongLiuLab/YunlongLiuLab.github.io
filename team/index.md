@@ -12,6 +12,7 @@ Other research team members in the Liu Lab include Jill Reiter, PhD (Visiting As
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: as" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)|^(?!as$)" %}
 
 {% include section.html %}
